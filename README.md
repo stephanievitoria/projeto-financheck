@@ -87,7 +87,7 @@ src/main/java/com/financheck/
 
 ---
 
-## 👥 Membros do grupo
+## 👥 Membros do projeto
 
 | Nome | GitHub |
 |------|--------|
