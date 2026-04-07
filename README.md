@@ -1,4 +1,4 @@
-# 💰 FinanCheck — Backend
+# FinanCheck — Backend
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Em%20andamento-yellow?style=for-the-badge)
@@ -7,7 +7,7 @@ API REST para controle de finanças pessoais. Permite ao usuário registrar rece
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - Java 17
 - Spring Boot 3
@@ -19,7 +19,7 @@ API REST para controle de finanças pessoais. Permite ao usuário registrar rece
 
 ---
 
-## 🏛️ Arquitetura
+## Arquitetura
 
 O projeto segue a **arquitetura hexagonal** (Ports & Adapters), separando as responsabilidades em três camadas:
 
@@ -34,17 +34,17 @@ A regra principal é que o domínio não conhece ninguém — toda dependência 
 
 ---
 
-## ✅ Funcionalidades
+## Funcionalidades
 
-- 👤 Cadastro, edição e desativação de usuários
-- 💸 Registro e categorização de receitas e despesas
-- 📅 Busca de transações por período
-- 🏷️ Cadastro de categorias personalizadas por usuário
-- 🎯 Cadastro e acompanhamento de metas financeiras com cálculo de progresso
+- Cadastro, edição e desativação de usuários
+- Registro e categorização de receitas e despesas
+- Busca de transações por período
+- Cadastro de categorias personalizadas por usuário
+- Cadastro e acompanhamento de metas financeiras com cálculo de progresso
 
 ---
 
-## 🚀 Como rodar localmente
+## Como rodar localmente
 
 **Pré-requisitos:** Java 17+ e Maven instalados.
 
@@ -69,7 +69,7 @@ Password:  (deixar em branco)
 
 ---
 
-## 📁 Estrutura de pacotes
+## Estrutura de pacotes
 
 ```
 src/main/java/com/financheck/
@@ -87,7 +87,7 @@ src/main/java/com/financheck/
 
 ---
 
-## 👥 Membros do projeto
+## Membros do projeto
 
 | Nome | GitHub |
 |------|--------|
@@ -97,6 +97,6 @@ src/main/java/com/financheck/
 
 ---
 
-## 📌 Status do projeto
+## Status do projeto
 
 🚧 Em desenvolvimento
